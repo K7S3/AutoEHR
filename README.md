@@ -9,3 +9,4 @@ Mission statement: AutoEHR Agent
 Our mission is to automate the generation of electronic health records using advanced language processing technology. We aim to streamline healthcare workflows, reduce administrative burden, and improve patient care by empowering healthcare providers to spend more time on patients and less on paperwork
 
 
+![alt text]([http://url/to/img.png](https://drive.google.com/drive/recent?dmr=1&ec=wgc-drive-hero-goto))
